@@ -585,6 +585,101 @@
         "Express.js"
       ],
       "summary": "Where does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32."
+    },
+    {
+      "id": "d960",
+      "professionalData": {
+        "name": "ajitha kamal tt",
+        "jobTitle": "IT",
+        "location": "vechoor",
+        "email": "wawqsfsawesesw@gmail",
+        "phone": "1234567",
+        "github": "git",
+        "linkedin": "link",
+        "portfolio": "port"
+      },
+      "educationData": {
+        "course": "web",
+        "collage": "LUM",
+        "university": "LUM HUB",
+        "year": "2025"
+      },
+      "experience": {
+        "jobRole": "intern",
+        "company": "Kaduvakkunelli company",
+        "joblocation": "vechoor",
+        "duration": "1 year"
+      },
+      "skills": [
+        "React",
+        "Node.js",
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "794f",
+      "professionalData": {
+        "name": "Kaduvakkunelli company",
+        "jobTitle": "Kaduvakkunelli company",
+        "location": "vechoor",
+        "email": "adsa",
+        "phone": "1234556",
+        "github": "eda",
+        "linkedin": "adsa",
+        "portfolio": "ass"
+      },
+      "educationData": {
+        "course": "Kaduvakkunelli company",
+        "collage": "Kaduvakkunelli company",
+        "university": "vechoor",
+        "year": "1 year"
+      },
+      "experience": {
+        "jobRole": "athul amal tk",
+        "company": "Kaduvakkunelli company",
+        "joblocation": "vechoor",
+        "duration": "1 year"
+      },
+      "skills": [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express.js",
+        "com"
+      ],
+      "summary": "a b c d e f g h i j k l m n o p q r s t v u w s y z"
+    },
+    {
+      "id": "a48b",
+      "professionalData": {
+        "name": "Kaduvakkunelli company",
+        "jobTitle": "IT",
+        "location": "vechoor",
+        "email": "adsa",
+        "phone": "1234567",
+        "github": "https://www.flipkart.com/",
+        "linkedin": "https://www.flipkart.com/",
+        "portfolio": "https://www.flipkart.com/"
+      },
+      "educationData": {
+        "course": "",
+        "collage": "LUM",
+        "university": "LUM HUB",
+        "year": "2025"
+      },
+      "experience": {
+        "jobRole": "athul amal tk",
+        "company": "Kaduvakkunelli company",
+        "joblocation": "vechoor",
+        "duration": "1 year"
+      },
+      "skills": [],
+      "summary": ""
     }
   ]
 }
